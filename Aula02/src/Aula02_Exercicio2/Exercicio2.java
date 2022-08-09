@@ -1,5 +1,5 @@
 
-package Aula02_exercio2;
+package Aula02_Exercicio2;
 
 public class Exercicio2 {
     public static void main(String[] args) {

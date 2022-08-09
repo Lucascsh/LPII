@@ -1,5 +1,5 @@
 
-package Aula02_Exericio1;
+package Aula02_Exercicio1;
 
 public class A {
     public int valor1;
